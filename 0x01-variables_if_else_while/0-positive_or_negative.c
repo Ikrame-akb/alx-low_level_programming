@@ -5,7 +5,7 @@
 
 /* betty style doc for function main goes there */
 /**
- * main - prints whether the number sorted is positive or negative 
+ * main - prints whether the number sorted is positive or negative
  *
  * Return: always 0 (success)
  */
