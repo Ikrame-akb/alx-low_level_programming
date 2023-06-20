@@ -3,16 +3,16 @@
 /**
  * _abs - checks for absolute value
  *
- * @a: parameter to be checked
+ * @n: parameter to be checked
  *
- * Return: always a
+ * Return: always n
  */
 
-int _abs(int a)
+int _abs(int n)
 {
-	if (a < 0)
-		a = -(a);
-	else if (a >= 0)
-		a = a;
-	return (a);
+	if (n < 0)
+		n = -(n);
+	else if (n >= 0)
+		n = n;
+	return (n);
 }
